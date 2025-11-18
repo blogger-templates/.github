@@ -1,6 +1,6 @@
 <div align="center">
 
-# Blogger Templates Organization
+# Blogger Templates
 ### Empowering Creators with SEO-Optimized Layouts Since 2008
 
 [![Website](https://img.shields.io/badge/Website-Live_Demo-2ea44f?style=for-the-badge&logo=google-chrome)](https://plus-ul.blogspot.com/)
